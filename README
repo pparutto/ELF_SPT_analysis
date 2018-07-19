@@ -1,0 +1,13 @@
+The following codes were developped in MATLAB V9.0.
+
+Repository structure:
+
+./analysis: scripts performing the analysis presented in the paper:
+    + show_trajectories.m: display trajectories and inst. vel. histograms
+    + show_maps.m: display density/diffusion maps and hist. of diff. coeffs.
+    + junction_confinement.m: estimate confinement parameters of ER junctions
+./data: STPs in mat format.
+./experiments: Experimental & analysis parameters.
+./functions: supporting functions.
+
+Code is self-contained and was tested on windows & linux.
